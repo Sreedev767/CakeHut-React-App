@@ -19,7 +19,7 @@ const Home = () => {
           <div className='bg-transparent w-70'>
             <p className='bg-transparent helveticafont text-[15px]'>Their experience pays a role in the way they work. Bakers use flavours.</p>
           </div>
-          <button className='bg-yellow-500 w-40 rounded-[100px] place-items-center hover:bg-yellow-400 active:bg-amber-900
+          <button className='bg-amber-500 w-40 rounded-[100px] place-items-center hover:bg-amber-400 active:bg-amber-900
           '>ORDER NOW</button>
         </div>
       </div>
